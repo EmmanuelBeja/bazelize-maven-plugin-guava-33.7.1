@@ -1,0 +1,9 @@
+/target
+/bazel*
+.idea
+tmp-bzl-*.json
+BUILD*
+WORKSPACE*
+pom-effective.xml
+pom.xml.versionsBackup
+_*
